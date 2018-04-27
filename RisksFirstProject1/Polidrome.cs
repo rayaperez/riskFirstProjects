@@ -47,7 +47,7 @@ namespace RisksFirstProject1
             string removeWhiteSpaces  = new string(str.ToCharArray()
                                             .Where(c => !Char.IsWhiteSpace(c))
                                             .ToArray());
-            string lowerAllChars = str.ToLowerInvariant();
+            string lowerAllChars = removeWhiteSpaces.ToLowerInvariant();
 
             return lowerAllChars;
         }
