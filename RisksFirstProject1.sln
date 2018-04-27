@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisksFirstProject1", "RisksFirstProject1\RisksFirstProject1.csproj", "{9858EE4D-4485-4613-B912-1D6F5924E73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiskFirstProject2", "RiskFirstProject2\RiskFirstProject2.csproj", "{885AEE0F-BFA5-417F-9725-46EAC080CC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9858EE4D-4485-4613-B912-1D6F5924E73B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9858EE4D-4485-4613-B912-1D6F5924E73B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{9858EE4D-4485-4613-B912-1D6F5924E73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9858EE4D-4485-4613-B912-1D6F5924E73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885AEE0F-BFA5-417F-9725-46EAC080CC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885AEE0F-BFA5-417F-9725-46EAC080CC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885AEE0F-BFA5-417F-9725-46EAC080CC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885AEE0F-BFA5-417F-9725-46EAC080CC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BA4536-FABA-4715-97C1-D18927CC9643}
+	EndGlobalSection
+EndGlobal
